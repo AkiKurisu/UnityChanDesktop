@@ -1,4 +1,8 @@
 # UnityChanDesktop
+
+链接：https://pan.baidu.com/s/1Im6-h4kru1O6Je_353dH7Q?pwd=2o2p 
+提取码：2o2p 
+
 ## 对话功能说明：
 1. 找到在Unity Chan Desktop_Data文件夹中的UserConfig.json
 2. 在LLMType中填写使用的语言模型类别（’GPT‘为使用ChatGPT，需要输入自己的OpenAIKey，’GLM‘为本地部署的ChatGLM-6B，需填写相应的地址和端口）
